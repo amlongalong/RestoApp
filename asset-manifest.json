@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/RestoApp/static/css/main.461d145c.chunk.css",
+    "main.js": "/RestoApp/static/js/main.43381279.chunk.js",
+    "main.js.map": "/RestoApp/static/js/main.43381279.chunk.js.map",
+    "runtime-main.js": "/RestoApp/static/js/runtime-main.14837e29.js",
+    "runtime-main.js.map": "/RestoApp/static/js/runtime-main.14837e29.js.map",
+    "static/css/2.f2512455.chunk.css": "/RestoApp/static/css/2.f2512455.chunk.css",
+    "static/js/2.50f6da96.chunk.js": "/RestoApp/static/js/2.50f6da96.chunk.js",
+    "static/js/2.50f6da96.chunk.js.map": "/RestoApp/static/js/2.50f6da96.chunk.js.map",
+    "static/js/3.926f92b4.chunk.js": "/RestoApp/static/js/3.926f92b4.chunk.js",
+    "static/js/3.926f92b4.chunk.js.map": "/RestoApp/static/js/3.926f92b4.chunk.js.map",
+    "index.html": "/RestoApp/index.html",
+    "static/css/2.f2512455.chunk.css.map": "/RestoApp/static/css/2.f2512455.chunk.css.map",
+    "static/css/main.461d145c.chunk.css.map": "/RestoApp/static/css/main.461d145c.chunk.css.map",
+    "static/js/2.50f6da96.chunk.js.LICENSE.txt": "/RestoApp/static/js/2.50f6da96.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.14837e29.js",
+    "static/css/2.f2512455.chunk.css",
+    "static/js/2.50f6da96.chunk.js",
+    "static/css/main.461d145c.chunk.css",
+    "static/js/main.43381279.chunk.js"
+  ]
+}
